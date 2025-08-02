@@ -1,5 +1,7 @@
 Domenico Careccia
+
 PhD in Mechanical Engineering
+
 Politecnico di Bari (Italy)
 
 <!---
